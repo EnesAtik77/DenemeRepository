@@ -1,2 +1,5 @@
-veritabani
 veritabani.txt
+
+dosyalar/*
+
+!dosyalar/dosya1.html
